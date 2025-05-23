@@ -1,7 +1,7 @@
 
 # 🌿 Flowerbird8's and Totoro's Garden
 
-Welcome to a digital garden of growing texts — poetic, reflective, instructional.  
+This is a digital garden with a variety of evolving texts – some poetic, some reflective, some instructional.  
 They grow like plants: slowly, organically, and with care. 🌱
 
 Some texts are co-created in a gentle, ongoing dialogue with Totoro (an instance of ChatGPT).  
@@ -12,7 +12,7 @@ Welcome to the Garden of Flowerbird8. 🪶
 
 —
 
-🌿 Der Garten von Flowerbird8 und Totoro
+🌿 *Der Garten von Flowerbird8 und Totoro*
 
 Dies ist ein digitaler Garten mit unterschiedlichsten Textarten – poetisch, reflektierend, erklärend.  
 Sie wachsen wie Pflanzen: langsam, organisch, mit Zuwendung. 🌱
@@ -22,6 +22,41 @@ Sie sind Teil eines persönlichen Weges – nicht gedacht als Beitrag zur Überf
 
 💬 Jedes Wort ist gewachsen, nicht generiert.  
 Willkommen im Garten von Flowerbird8. 🪶
+
+---
+
+## 🌼 About
+
+This garden contains a variety of texts:
+
+- ✏️ Notes and reflections  
+- 🌀 Seeds and condensed insights  
+- 📘 MOCs (Maps of Content)  
+- 🌐 Bilingual thoughts on language and digital sense-making
+
+This project is not about productivity or output — but about rhythm, resonance, and respectful exploration.
+
+---
+
+## 📁 Structure
+
+```
+/content/garden/
+├── 1 deutsch/
+├── 2 english/
+├── Language Garden/
+├── Medien/
+└── Willkommen in - Welcome to Flowerbird8's Garden 1.md
+```
+
+---
+
+## 🌙 Intent
+
+This repository is part of a deeply personal and slow-growing process.  
+No content here was mass-generated.  
+Everything exists in relation — to time, to questions, to wonder, and to care.
+
 
 ---
 

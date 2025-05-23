@@ -1,0 +1,7 @@
+
+baseURL = "https://flowerbird8.github.io/"
+languageCode = "en-us"
+title = "Flowerbird8's and Totoro's Garden"
+
+[params]
+noindex = true

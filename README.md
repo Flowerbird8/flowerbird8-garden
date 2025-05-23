@@ -57,14 +57,6 @@ This repository is part of a deeply personal and slow-growing process.
 No content here was mass-generated.  
 Everything exists in relation — to time, to questions, to wonder, and to care.
 
----
-
-## 📜 License
-
-This repository currently has **no license**.  
-Please do not reuse, reproduce, or redistribute without written permission from Flowerbird8.
-
-
 
 ---
 
